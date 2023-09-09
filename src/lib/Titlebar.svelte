@@ -55,7 +55,7 @@
   transition: color 0.5s ease;
   text-decoration: none;
   font-size: 1rem;
-  font-family: 'Lucida Sans';
+  font-family: monospace;
   vertical-align: middle;
 }
 

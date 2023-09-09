@@ -13,7 +13,7 @@
         University of California, Riverside
     </div>
     <div class = "typewriter3">
-        Computer Science with Business Applications
+        B.S. in Computer Science
     </div>
 </body>
 
@@ -82,17 +82,17 @@
 
     @keyframes typing1 {
         from { width: 0 }
-        to { width: 19.5% }
+        to { width: 20% }
     }
            
     @keyframes typing2 {
         from { width: 0 }
-        to { width: 26.5% }
+        to { width: 27% }
     }
 
     @keyframes typing3 {
         from { width: 0 }
-        to { width: 24.5% }
+        to { width: 14% }
     }
 
     @keyframes blink {
