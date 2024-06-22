@@ -6,6 +6,7 @@
 <Titlebar />
 <MatrixRain />
 <body>
+    
     <div class = "wrapper">
     <div class="container">
         <div class="about">
@@ -36,11 +37,16 @@
 
     
 <style>
+
+
+
+
 .wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+
 }
 
 
@@ -52,7 +58,7 @@
     border-radius: 20px;
     box-sizing: border-box;
     text-align: center;
-    width: 100%;
+    width: 60%;
     max-width: 1400px;
     min-width: 320px; /* Set min-width to a reasonable value */
 }
@@ -99,6 +105,7 @@ p.career {
 }
 
 body {
+    background-color: transparent;
     overflow-y: hidden;
     overflow-x: hidden;
 }
